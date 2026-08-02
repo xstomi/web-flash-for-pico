@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rp2040-zero-blink-ws2812",                         
+    "name": "RP2040 Zero Blink WS2812",                       
+    "icon": "fa-brands fa-battle-net",                        
+    "description": "Khởi tạo LED WS2812 Đổi Màu Liên Tục",    
+    "version": "v1.0.0",                                      
+    "tags": ["Adafruit NeoPixel", "WS2812 GPIO16"],           
+    "size": "141.50KB",                                       
+    "url": "./firmware/rp2040-zero-blink-ws2812.uf2",         
+    "featured": true                                         
+  },
+  {
+    "id": "rp2040-zero-random-serial",
+    "name": "RP2040 Zero Random Serial",
+    "icon": "fa-solid fa-rotate-right",
+    "description": "Hiển Thị Tỉ Lệ Ngẫu Nhiên Qua Serial",
+    "version": "v1.0.0",
+    "tags": [],
+    "size": "140.50KB",
+    "url": "./firmware/rp2040-zero-random-serial.uf2",
+    "featured": true
+  }
+]
